@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+
+.section-heading{
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.image{
+    width: 100px;
+}
+
+ul{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 2.5em;
+}
